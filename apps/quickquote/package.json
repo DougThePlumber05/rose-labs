@@ -1,0 +1,8 @@
+{
+  "name": "quickquote",
+  "version": "0.1.0",
+  "bin": {
+    "quickquote": "src/index.js"
+  },
+  "license": "MIT"
+}
